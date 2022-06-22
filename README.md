@@ -1,0 +1,1 @@
+"# GlobalizationAndLocalizationInDotNetCore5" 
